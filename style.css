@@ -1,0 +1,14 @@
+.heading{
+    color:aqua;
+}
+#heading1{
+    color:red;
+}
+button{
+    background-color:skyblue;
+    color:blanchedalmond;
+    border:5px solid black;
+    padding: 10px;
+    margin: 10px;
+    cursor:pointer;
+}
